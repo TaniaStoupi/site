@@ -17,6 +17,7 @@ events:
   - smalltalk
   - children-alto
   - plato4
+  - the-first-touch-screen
   - vt100
   - dtp
   - cad
