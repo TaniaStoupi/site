@@ -16,6 +16,6 @@ events:
   - mediaspace
   - github-contributions
   - kickstarter-pebble
-  -laser-printers
+  - laser-printers
 ---
 
