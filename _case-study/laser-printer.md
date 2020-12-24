@@ -15,7 +15,3 @@ gallery:
   - image_url: /images/Gary Keith Starkweather.jpg 
     caption: "Αργότερα ένας νεαρός ερευνητής της Xerox Cooperation, ο οποιός στηρίχθηκε στα ευρήματα του Carlson, δημιούργησε τον πρώτο λειτουργικό εκτυπωτή τον οποίο και ονόμασε SLOT."
 ---
-
-{% include extras/laser-printer.md %}
-
-{% include _gallery %}
